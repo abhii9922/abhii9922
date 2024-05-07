@@ -6,7 +6,7 @@
 
         - 🌱 I’m currently learning Vue.js
 
-        - 👨‍💻 All of my projects are available at [text](https://abhishek-shinde9922.netlify.app/)
+        - 👨‍💻 All of my projects are available at- https://abhishek-shinde9922.netlify.app/
 
         - 💬 Ask me about Python, React.js, Node.js, MongoDB
 
